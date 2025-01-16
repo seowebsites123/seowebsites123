@@ -31,7 +31,7 @@ Please contact <a href="https://t.me/ARYAHOfficialTirangaAccount" target="_blank
 <section>
     <h2>How to Log In to Tiranga Game</h2>
     <ul>
-        <li><strong>Visit the Website:</strong> Go to the <a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game login page.</a></li>
+        <li><strong>Visit the Website:</strong> Go to the <a href="https://www.tirangagame.top/#/register?invitationCode=576642160581" target="_blank">Tiranga Game login page.</a></li>
       <section style="text-align: center;">
   <img 
     src="https://tiranga-game.one/wp-content/uploads/2024/12/tiranga-game-login.webp" 
