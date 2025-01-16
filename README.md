@@ -1,14 +1,14 @@
   <header>
-        <h1>Tiranga Game Login</h1>
+        <h1>Tiranga Game</h1>
     </header>
 <p>Updated 43 Seconds Ago</p>
    <section>
         <h2>Quick Access Links:</h2>
-            <h3><a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game Login</h3>
-              <h3><a href="https://tiranga-game.one/register/" target="_blank">Tiranga Game Register</h3>
-            <h3><a href="https://tiranga-game.one/download/" target="_blank">Download Tiranga Game</h3>
+            <h3><a href="https://www.tirangagame.top/#/register?invitationCode=576642160581" target="_blank">Tiranga Game Login</h3>
+              <h3><a href="https://www.tirangagame.top/#/register?invitationCode=576642160581" target="_blank">Tiranga Game Register</h3>
+            <h3><a href="https://www.tirangagame.top/#/register?invitationCode=576642160581" target="_blank">Download Tiranga Game</h3>
 
-Please contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_blank">Teacher Moana</a> After Sign up for your sign up bonus.
+Please contact <a href="https://t.me/ARYAHOfficialTirangaAccount" target="_blank">Teacher Aryah</a> After Sign up for your sign up bonus.
     </section>
     <section>
       <h2>Tiranga Game</h2>
